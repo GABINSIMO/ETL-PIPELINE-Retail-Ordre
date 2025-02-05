@@ -4,10 +4,10 @@ Ce projet consiste à construire un pipeline ETL qui extrait des données de ven
 
 
 ## Technologie
-Extraction : API Kaggle, Python
-Data Processing : Pandas
-Data storage and quering : My SQL Workbench
-Visualisation : SQL, Power BI
+- Extraction : API Kaggle, Python
+- Data Processing : Pandas
+- Data storage and quering : My SQL Workbench
+- Visualisation : SQL, Power BI
 
 ## Flux de données 
 Veuillez trouver ci-dessous le déroulement des actions qu'un utilisateur peut effectuer dans l'application.
